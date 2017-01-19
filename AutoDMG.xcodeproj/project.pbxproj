@@ -315,7 +315,7 @@
 				ORGANIZATIONNAME = "University of Gothenburg";
 				TargetAttributes = {
 					66EA72C817EB1585009B8350 = {
-						DevelopmentTeam = 5KQ3D3FG5H;
+						DevelopmentTeam = 6FC4832276;
 					};
 				};
 			};
@@ -560,7 +560,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
-				DEVELOPMENT_TEAM = 5KQ3D3FG5H;
+				DEVELOPMENT_TEAM = 6FC4832276;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoDMG/AutoDMG-Prefix.pch";
 				INFOPLIST_FILE = "AutoDMG/AutoDMG-Info.plist";
@@ -576,7 +576,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
-				DEVELOPMENT_TEAM = 5KQ3D3FG5H;
+				DEVELOPMENT_TEAM = 6FC4832276;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoDMG/AutoDMG-Prefix.pch";
 				INFOPLIST_FILE = "AutoDMG/AutoDMG-Info.plist";
